@@ -1,0 +1,2 @@
+# encouragementBot_hacktoberfest
+Encouragement Bot for Hacktoberfest
